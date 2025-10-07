@@ -1,5 +1,5 @@
 # 💾 Banco de Dados da Empresa de Desenvolvimento de Software
-# Paulo Guilherme Oliveira de Lima
+### Paulo Guilherme Oliveira de Lima
 # Turma C
 
 ## Visão Geral
